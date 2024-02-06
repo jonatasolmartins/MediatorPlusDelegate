@@ -1,1 +1,1 @@
-A simple command patter implementation I made to teach the students of jalasoft/jala-university fullstack bootcamp.
+A simple mediator design pattern implementation I made to teach the students of jalasoft/jala-university fullstack bootcamp.
